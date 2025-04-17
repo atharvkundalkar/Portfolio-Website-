@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Portfolio</title>
+ 
+  <link rel="stylesheet" href="style.css" type="text/css" media="all" />
+
+</head>
+
+<body>
+  <header>
+    
+    <nav>
+      <h2>Atharv's Portfolio</h2>
+  <ul>
+    <li><a href="home.html">Home</a></li>
+    <li><a href="about.html">About Me</a></li>
+    <li><a href="education.html">Education</a></li>
+    <li><a href="projects.html">Projects</a></li>
+    <li><a href="contact.html">Contact</a></li>
+   
+  </ul>
+</nav>
+  </header>
+  
+  <section id="about">
+  <h2>About Me</h2>
+  <p>  Myself Atharv Kundalkar,
+   I am a student of BCA 2nd year, who is learning web development.
+   And looking for an internship to get real world experience and to learn new technologies. Improving myself in web development skills for my better career.</p>
+</section>
+  <button class="btn" type="submit"><h4>My Resume</h4></button>
+   
+</body>
+
+</html>
