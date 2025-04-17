@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Portfolio</title>
+  <link rel="stylesheet" href="style.css" type="text/css" media="all" />
+    
+  </style>
+</head>
+
+<body>
+   <header>
+   <nav>
+     <h2>Atharv's Portfolio</h2>
+     <ul>
+       <li><a href="home.html">Home</a>
+       <li><a href="about.html">About Me</a></li>
+       <li><a href="education.html">Education</a></li>
+       <li><a href="projects.html">Projects</a></li>
+       <li><a href="contact.html">Contact</a></li>
+     </ul>
+   </nav>
+ </header>
+ <div class="education">
+   
+ 
+ <h1>Education</h1>
+ <div class="education1">
+  <h3>2025</h3>
+  <p>BCA from Tulsi Computer science & I.T college, Beed in Maharashtra. Currently giving exam of BCA 2nd year.</p>
+ </div>
+ <div class="education2">
+   <h3>2023</h3>
+   <p>Passed 12th class from Gajanan junior college. </p>
+   </div>
+ </div>
+  <button class="btn" type="submit"><h4>My Resume</h4></button>
+  
+</body>
+
+</html>
